@@ -1,0 +1,9 @@
+[character]
+error_symbol = "[❯](bold red)"
+success_symbol = "[❯](bold green)"
+
+[docker_context]
+format = "via [🐋 $context](blue bold)"
+
+[nodejs]
+symbol = "nodejs "
